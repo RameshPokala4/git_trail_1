@@ -1,0 +1,7 @@
+let x=20;
+
+console.log(x is 20);
+
+let y=30;
+
+concole.log(y is 30);
